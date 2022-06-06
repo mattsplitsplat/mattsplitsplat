@@ -1,6 +1,6 @@
 # 🐱‍👓 Welcome Coders!
 
-> 👾 I'm Matt, aRice && Dotfiles enthusiast
+> 👾 I'm Matt, a Rice && Dotfiles enthusiast
 
 ## Tools  
 <div>
