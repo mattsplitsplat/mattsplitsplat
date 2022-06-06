@@ -2,7 +2,7 @@
 
 > 👾 I'm Matt, a Rice && Dotfiles enthusiast
 
-## Tools  
+## 🧰Tools  
 <div>
     <a href="https://archlinux.org/">
         <img alt ="Arch Linux" src= "https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
@@ -15,19 +15,19 @@
     </a>
 </div>
 
-## ⚙ I play with
+## ⚙I play with
 
 <div>
     <a href="https://www.javascript.com/">
-        <img alt="JavaScript" width="32em" height="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     </a>
     <a href="https://www.python.org/">
-        <img alt="Python" width="32em" height="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+        <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     </a> 
     <a href="https://dotnet.microsoft.com/">
-        <img alt="C#" width="32em" height="32em" src="./assets/cplusplus.png">
+        <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     </a> 
     <a href="">
-        <img alt="Shell Scripting" width="32em" height="32em" src="./assets/bash.png">
+        <img alt="Shell Scripting" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
     </a> 
 </div> 
