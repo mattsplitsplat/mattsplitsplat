@@ -25,9 +25,9 @@
         <img alt="Python" width="32em" height="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     </a> 
     <a href="https://dotnet.microsoft.com/">
-        <img alt="C#" width="32em" height="32em" src="./assets/cplusplus">
+        <img alt="C#" width="32em" height="32em" src="./assets/cplusplus.png">
     </a> 
     <a href="">
-        <img alt="Shell Scripting" width="32em" height="32em" src="./assets/bash">
+        <img alt="Shell Scripting" width="32em" height="32em" src="./assets/bash.png">
     </a> 
 </div> 
