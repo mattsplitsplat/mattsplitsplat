@@ -1,4 +1,4 @@
-# 🐱‍👓 Welcome Coders!
+# 🐱‍👓 Welcome Dev!
 
 > 👾 I'm Matt, a Rice && Dotfiles enthusiast
 
